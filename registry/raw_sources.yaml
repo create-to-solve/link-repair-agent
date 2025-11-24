@@ -1,0 +1,11 @@
+# registry/raw_sources.yaml
+datasets:
+  - id: "ons_lfs"
+    name: "ONS Labour Force Survey (example)"
+    landing_url: "https://example.org/ons/lfs-dataset-landing-page"
+    notes: "Example seed; replace with real ONS landing page URLs."
+
+  - id: "nomis_bres"
+    name: "NOMIS Business Register and Employment Survey (example)"
+    landing_url: "https://example.org/nomis/bres-landing-page"
+    notes: "Example seed; replace with real NOMIS BRES dataset landing page."
